@@ -1,4 +1,4 @@
-# Hi there, I'm GGoke 👋
+# Hi there, I'm Goke 👋
 
 ### 📊 Turning Start-Up Data into Actionable Strategy
 I specialize in **IT Business Intelligence** and **Market Research Analytics**, helping early-stage ventures navigate the gap between raw data and informed decision-making.

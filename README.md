@@ -12,11 +12,11 @@ I take technical data and translate it into the business metrics that drive your
 **Stakeholder Communication:** I simplify complex data into high-impact insights for non-technical partners, ensuring everyone is aligned on the path to ROI.
 
 ### Core Services Include:
-Sales & Marketing Dashboard Development
-Customer Acquisition Cost (CAC) & Churn Rate Analysis
-Customer/User Segmentation (Behavioral & Demographic)
-Sales Data Audits & Revenue Tracking
-Marketing Performance Analysis (Meta & Google Ads)
+- Sales & Marketing Dashboard Development
+- Customer Acquisition Cost (CAC) & Churn Rate Analysis
+- Customer/User Segmentation (Behavioral & Demographic)
+- Sales Data Audits & Revenue Tracking
+- Marketing Performance Analysis (Meta & Google Ads)
 
 ### 🛠 Tech Stack:
 - **Languages:** Python (Pandas, Scikit-learn), SQL, R

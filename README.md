@@ -1,18 +1,26 @@
 # Hi there, I'm Goke 👋
 
 ### 📊 Turning Start-Up Data into Actionable Strategy
-I specialize in **IT Business Intelligence** and **Market Research Analytics**, helping early-stage ventures navigate the gap between raw data and informed decision-making.
+I help founders and decision-makers stop the "guesswork" by turning fragmented marketing and sales data into a clear roadmap for growth.
 
----
+I take technical data and translate it into the business metrics that drive your runway like **ROI, CAC, and Churn**. Whether it’s identifying why a campaign isn't converting or uncovering hidden revenue leaks, my goal is to ensure your marketing efforts are an investment, not an expense.
 
-### 🚀 What I Do:
-- **BI Analytics:** Building automated dashboards that track KPIs and operational efficiency.
-- **Market Research:** Analyzing consumer trends, competitor landscapes, and market entry strategies.
-- **Strategy Support:** Translating technical insights into clear executive recommendations.
+### 🚀 How I Help Startups Scale:
+**Marketing & Ad Optimization:** I analyze Meta and Google Ads performance to identify wasted spend and suggest data-backed techniques to improve conversion.
+**Revenue & Performance Tracking:** From sales data audits to custom dashboards, I provide an effective way to track your revenue and marketing health.
+**User & Product Insights:** I use segmentation and churn analysis to help you understand who your best customers are and why they stay (or leave).
+**Stakeholder Communication:** I simplify complex data into high-impact insights for non-technical partners, ensuring everyone is aligned on the path to ROI.
+
+### Core Services Include:
+Sales & Marketing Dashboard Development
+Customer Acquisition Cost (CAC) & Churn Rate Analysis
+Customer/User Segmentation (Behavioral & Demographic)
+Sales Data Audits & Revenue Tracking
+Marketing Performance Analysis (Meta & Google Ads)
 
 ### 🛠 Tech Stack:
 - **Languages:** Python (Pandas, Scikit-learn), SQL, R
-- **Visualization:** Power BI, Tableau, Looker, Plotly
+- **Visualization:** Power BI, Tableau,
 - **Tools:** Excel (Advanced), Google Analytics, Market Analysis APIs
 
 ---

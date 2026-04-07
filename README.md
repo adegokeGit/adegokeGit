@@ -32,7 +32,6 @@ I take technical data and translate it into the business metrics that drive your
 
 ### 📫 Let's Connect:
 - **LinkedIn:** www.linkedin.com/in/adegoke-o-adedeji
-- **YouTube:** https://www.youtube.com/@DRGoke
 - **Email:** adegoke.o.adedeji@gmail.com
 
 *"Available for collaborations and data-driven consulting for early-stage ventures."*

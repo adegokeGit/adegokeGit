@@ -27,6 +27,7 @@ I take technical data and translate it into the business metrics that drive your
 
 ### 📂 Featured Projects:
 - **E-com Customer Segmentaion**: A customer segmentaion analysis for an E-commerce venture using  K-Means Clustering in Python
+- **The Logistics "Leakage" & Regional Margin Map**: Identifying Logistics Leakage by State for an eCommerce brand that offers free shipping
 
 ---
 

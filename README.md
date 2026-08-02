@@ -1,20 +1,6 @@
-# Hi, I'm Goke
+# Hi, I'm Adegoke
 
-I’m a Data Analyst with experience helping startups and eCommerce brands make better decisions using customer, product, and marketing data.
-
-I enjoy collaborating across teams to solve business problems, improve decision-making, and support sustainable growth through data.
-
-My work spans growth analytics, customer retention, funnel analysis, experimentation, and business reporting.
-
-## Tech Stack
-SQL • Python • Tableau •
-
-## Focus Areas
-- Product & Growth Analytics
-- Customer Insights
-- Funnel & Retention Analysis
-- A/B Testing
-- Business Intelligence
+I enjoy solving business problems with data. Using SQL and Python, I analyze, transform, and model data to deliver insights that help organizations make informed decisions. My interests span analytics, data engineering, and building reliable data foundations that others can trust.
 
 ### 📫 Let's Connect:
 - **LinkedIn:** www.linkedin.com/in/adegoke-o-adedeji
